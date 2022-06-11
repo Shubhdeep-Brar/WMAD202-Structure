@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="wmad202-assignment1" />
+    <orderEntry type="module" module-name="wmad202-lecture-code" />
   </component>
 </module>
