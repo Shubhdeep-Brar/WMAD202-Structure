@@ -17,14 +17,20 @@ public class Assignment3Driver {
 
         //Question1.printPrimeOrNot();
         //Question2.printNextPrimeNumber();
-       //Question3.printPattern();
+       //Question3 question3 = new Question3();
+       //question3.printPattern();
+        Question3.printPattern();
+
+       //creating instance of question 3 because peintpattern is instance method
+        // not class method. So we have to create instance before calling printpattern
+
        //Question4.printMostRepeatedNumbers();
         //Question5.printFrequency();
         //Question6.distinctNumbers();
         //Question7.printIndex();
         //Question8.printDivisibleNumbers();
         //Question9.primeVisibility();
-        Question10.
+        //Question10.
 
 
 
