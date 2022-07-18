@@ -6,6 +6,7 @@ import ca.ciccc.wmad.assignment3.main.Assignment3Driver;
 import ca.ciccc.wmad.assignment4.main.Assignment4Driver;
 import ca.ciccc.wmad.assignment5.main.Assignment5Driver;
 import ca.ciccc.wmad.assignment6.main.AssignmentDriver6;
+import ca.ciccc.wmad.assignment7.main.AssignmentDriver7;
 import ca.ciccc.wmad202.lecture.main.LectureCodeDriver;
 
 
@@ -19,6 +20,7 @@ public class WMAD202Driver {
         //Assignment3Driver.run();
         //Assignment4Driver.run();
         //Assignment5Driver.run();
-        AssignmentDriver6.run();
+        //AssignmentDriver6.run();
+        AssignmentDriver7.run();
     }
 }
